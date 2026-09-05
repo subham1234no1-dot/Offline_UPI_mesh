@@ -1,9 +1,9 @@
-package com.demo.upimesh.service;
+package com.subham.upimesh.service;
 
-import com.demo.upimesh.crypto.HybridCryptoService;
-import com.demo.upimesh.model.MeshPacket;
-import com.demo.upimesh.model.PaymentInstruction;
-import com.demo.upimesh.model.Transaction;
+import com.subham.upimesh.crypto.HybridCryptoService;
+import com.subham.upimesh.model.MeshPacket;
+import com.subham.upimesh.model.PaymentInstruction;
+import com.subham.upimesh.model.Transaction;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

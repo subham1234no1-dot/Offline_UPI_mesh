@@ -1,8 +1,8 @@
-package com.demo.upimesh.model;
+package com.subham.upimesh.model;
 
+import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
-import jakarta.validation.constraints.Min;
 
 /**
  * The over-the-wire format. This is what hops from phone to phone via Bluetooth.

@@ -1,13 +1,13 @@
-package com.demo.upimesh;
+package com.subham.upimesh;
 
-import com.demo.upimesh.crypto.HybridCryptoService;
-import com.demo.upimesh.crypto.ServerKeyHolder;
-import com.demo.upimesh.model.MeshPacket;
-import com.demo.upimesh.model.PaymentInstruction;
-import com.demo.upimesh.model.AccountRepository;
-import com.demo.upimesh.service.BridgeIngestionService;
-import com.demo.upimesh.service.DemoService;
-import com.demo.upimesh.service.IdempotencyService;
+import com.subham.upimesh.crypto.HybridCryptoService;
+import com.subham.upimesh.crypto.ServerKeyHolder;
+import com.subham.upimesh.model.MeshPacket;
+import com.subham.upimesh.model.PaymentInstruction;
+import com.subham.upimesh.model.AccountRepository;
+import com.subham.upimesh.service.BridgeIngestionService;
+import com.subham.upimesh.service.DemoService;
+import com.subham.upimesh.service.IdempotencyService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.demo</groupId>
+    <groupId>com.subham</groupId>
     <artifactId>upi-offline-mesh</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>upi-offline-mesh</name>
