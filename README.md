@@ -8,9 +8,9 @@ This repo is the **server side** of that system, plus a software simulator of th
 
 ## Table of Contents
 
-1. [What this project proves](#what-this-demo-proves)
+1. [What this project proves](#what-this-project-proves)
 2. [How to run it](#how-to-run-it)
-3. [The demo flow (step by step)](#the-demo-flow-step-by-step)
+3. [The project flow (step by step)](#the-project-flow-step-by-step)
 4. [Architecture](#architecture)
 5. [The three hard problems and how they're solved](#the-three-hard-problems-and-how-theyre-solved)
 6. [File-by-file walkthrough](#file-by-file-walkthrough)
@@ -21,7 +21,7 @@ This repo is the **server side** of that system, plus a software simulator of th
 
 ---
 
-## What this demo proves
+## What this project proves
 
 The system shows three things working end to end:
 
@@ -78,7 +78,7 @@ The interesting one is `IdempotencyConcurrencyTest` — it fires three threads d
 
 ---
 
-## The demo flow (step by step)
+## The project flow (step by step)
 
 The dashboard has four buttons that walk through the full pipeline. The intended sequence:
 
