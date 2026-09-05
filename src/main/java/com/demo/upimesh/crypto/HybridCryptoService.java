@@ -1,7 +1,7 @@
-package com.demo.upimesh.crypto;
+package com.subham.upimesh.crypto;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.demo.upimesh.model.PaymentInstruction;
+import com.subham.upimesh.model.PaymentInstruction;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

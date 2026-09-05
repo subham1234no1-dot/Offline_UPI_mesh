@@ -1,4 +1,4 @@
-package com.demo.upimesh.model;
+package com.subham.upimesh.model;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

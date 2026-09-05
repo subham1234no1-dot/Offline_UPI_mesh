@@ -1,8 +1,8 @@
-package com.demo.upimesh.controller;
+package com.subham.upimesh.controller;
 
-import com.demo.upimesh.crypto.ServerKeyHolder;
-import com.demo.upimesh.model.*;
-import com.demo.upimesh.service.*;
+import com.subham.upimesh.crypto.ServerKeyHolder;
+import com.subham.upimesh.model.*;
+import com.subham.upimesh.service.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,15 +1,16 @@
-package com.demo.upimesh.crypto;
-
-import jakarta.annotation.PostConstruct;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.stereotype.Component;
+package com.subham.upimesh.crypto;
 
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;
 import java.security.PrivateKey;
 import java.security.PublicKey;
 import java.util.Base64;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Component;
+
+import jakarta.annotation.PostConstruct;
 
 /**
  * Holds the server's RSA keypair.

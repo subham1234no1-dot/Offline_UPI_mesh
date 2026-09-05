@@ -1,6 +1,6 @@
-package com.demo.upimesh.service;
+package com.subham.upimesh.service;
 
-import com.demo.upimesh.model.MeshPacket;
+import com.subham.upimesh.model.MeshPacket;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
