@@ -8,7 +8,7 @@ This repo is the **server side** of that system, plus a software simulator of th
 
 ## Table of Contents
 
-1. [What this demo proves](#what-this-demo-proves)
+1. [What this project proves](#what-this-demo-proves)
 2. [How to run it](#how-to-run-it)
 3. [The demo flow (step by step)](#the-demo-flow-step-by-step)
 4. [Architecture](#architecture)
